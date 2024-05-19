@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch Series 8",
+    "model": "Series 8",
+    "price": 399
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy Watch 5",
+    "model": "Galaxy Watch 5",
+    "price": 279
+  },
+  {
+    "id": 3,
+    "name": "Garmin Forerunner 945",
+    "model": "Forerunner 945",
+    "price": 499
+  },
+  {
+    "id": 4,
+    "name": "Fitbit Sense 2",
+    "model": "Sense 2",
+    "price": 299
+  },
+  {
+    "id": 5,
+    "name": "Huawei Watch GT 3",
+    "model": "Watch GT 3",
+    "price": 229
+  }
+]
+  
